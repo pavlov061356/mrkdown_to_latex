@@ -29,6 +29,6 @@ jobs:
 
     - name: Test
       run: go test -v ./...
-    - name: Go Releasr
-      uses: PackagrIO/action-releasr-go@v1.0.1      
+    # - name: Go Releasr
+    #   uses: PackagrIO/action-releasr-go@v1.0.1      
           
