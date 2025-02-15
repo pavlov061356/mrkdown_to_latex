@@ -1,8 +1,8 @@
-module github.com/pavlov061356/markdown_to_latex
+module github.com/markdown_to_latex
 
-go 1.22.3
+go 1.23.5
 
-require github.com/stretchr/testify v1.9.0
+require github.com/stretchr/testify v1.10.0
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
