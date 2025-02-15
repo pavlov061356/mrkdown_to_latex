@@ -35,3 +35,7 @@ linters:
   - wrapcheck
   - wsl
   - zerologlint
+
+run:
+  tests: false
+  modules-download-mode: readonly
